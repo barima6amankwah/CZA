@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ultraxas-xmd
+    name: CZA-Se
     env: node
     plan: free
     buildCommand: "npm install"
