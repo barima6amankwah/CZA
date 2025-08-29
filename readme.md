@@ -6,7 +6,9 @@
 > A next-gen WhatsApp bot powered by **Caesar**. Deploy and enjoy seamless automation.  
 > The bot comes with 700+ powerful features and modern deployment support.
 
-![CZA Se Logo](https://i.ibb.co/20XJN2rJ/cza-se-logo.png)
+<p align="center">
+  <img src="https://i.ibb.co/20XJN2rJ/cza-se-logo.png" alt="CZA Se Logo" />
+</p>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+CZA+Se+IS+READY;TO+RULE+ON+WHATSAPP+AGAIN" alt="Footer Animation">
